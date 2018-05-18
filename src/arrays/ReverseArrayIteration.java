@@ -3,6 +3,13 @@ package arrays;
 import java.io.*;
 import java.util.*;
 
+/**
+ * Problem statement
+ *
+ *
+ *
+ */
+
 public class ReverseArrayIteration {
 
     /*
