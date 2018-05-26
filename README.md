@@ -1,3 +1,3 @@
 # HackerRank
 
-## Hacker Rank Problem Solving :)
+## Solving problems from various platforms like hackerrank, codility, codewars etc.
